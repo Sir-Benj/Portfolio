@@ -105,7 +105,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Science Games Technology Undergraduate @ Nottingham Trent University."
   location         : "Nottingham, United Kingdom."
-  email            : "benjaminjharding@hotmail.co.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
