@@ -103,8 +103,7 @@ analytics:
 author:
   name             : "Benjamin Harding"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Science Games Technology Undergraduate"
-  bio              : "@ Nottingham Trent University."
+  bio              : "Computer Science Games Technology Undergraduate."
   location         : "Nottingham, United Kingdom."
   links:
     - label: "Email"
