@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /Programming/
+permalink: /programming/
 title: "Programming Project Posts by Tags"
 author_profile: true
 header:
