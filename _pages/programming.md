@@ -4,7 +4,7 @@ permalink: /programming/
 title: "Programming Projects"
 author_profile: true
 header:
-    image: "/images/reflections.jpg"
+    image: "/images/reflections.png"
 ---
 
 {% include base_path %}
