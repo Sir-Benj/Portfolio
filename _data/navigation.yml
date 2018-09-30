@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Programming"
     url: /programming/
+  - title: "Unity"
+    url: /unity/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
