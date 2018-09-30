@@ -182,11 +182,9 @@
 }
 
 .page__hero-image {
-  position: absolute;
+  vertical-align: middle;
   width: auto;
   height: 100%;
-  top: 50%;
-  transform: translateY(-50%);
   -ms-interpolation-mode: bicubic;
 }
 
