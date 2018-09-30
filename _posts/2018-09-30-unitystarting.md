@@ -1,10 +1,10 @@
 ---
-title: "Programming Project: C++ Game"
+title: "Starting Unity Project"
 date: 2018-09-30
 tags: [unity, c#, game]
 header:
     image: "images/unitylogo.png"
-excerpt: "First ever programming project, created in Python."
+excerpt: "Learning in Unity, preparing for my first game project."
 ---
 
-# H1 Starting First Game In Unity
+## Starting First Game In Unity

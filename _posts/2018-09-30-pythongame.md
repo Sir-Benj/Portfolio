@@ -7,4 +7,4 @@ header:
 excerpt: "First ever programming project, created in Python."
 ---
 
-# H1 Army of One - Made in Python
+## Army of One - Made in Python
