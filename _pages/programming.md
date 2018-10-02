@@ -7,15 +7,14 @@ header:
     image: "/images/reflections.png"
 ---
 
-{% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
-
 *intro*
 
 *add links to click that take you directly to the project on this page*
 
 # Python
 
+{% include base_path %}
+{% include group-by-array collection=site.posts field="tags" %}
 {% for tag in group_names %}
 {% if tag == "python" %}
   {% assign posts = group_items[forloop.index0] %}
@@ -30,6 +29,8 @@ header:
 
 # C++
 
+{% include base_path %}
+{% include group-by-array collection=site.posts field="tags" %}
 {% for tag in group_names %}
 {% if tag == "c++" %}
   {% assign posts = group_items[forloop.index0] %}
