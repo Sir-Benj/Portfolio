@@ -7,4 +7,4 @@ header:
 excerpt: "Learning in Blender, preparing to create assets for use in Unity"
 ---
 
-## Learning essential skills - Blender
+## Learning Essential Skills
