@@ -1,5 +1,5 @@
 ---
-title: "First Unity Project"
+title: "Unity Project - Character Movement and Animations"
 date: 2018-09-30
 tags: [unity]
 header:

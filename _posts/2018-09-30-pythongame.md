@@ -1,5 +1,5 @@
 ---
-title: "Programming Project: Python Game"
+title: "Programming Project: Army of One"
 date: 2018-09-30
 tags: [python]
 header:
