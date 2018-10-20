@@ -29,5 +29,5 @@ I began learning blender by constructing various shapes and seeing how to manipu
 
 <h3>Feline Landing Animation</h3>
 
-<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinelanding.gif" alt = "feline landing">
+<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinelanding.gif" alt = "Feline Landing">
 
