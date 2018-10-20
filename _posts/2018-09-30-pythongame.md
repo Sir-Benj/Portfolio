@@ -52,7 +52,7 @@ class Player(object):
 
 ```
 
-<h3>Unpacking Textfiles To Create Class Objects</h3>
+<h3>Unpacking Textfiles To Create Class Objects:</h3>
 
 ```python
 
@@ -81,7 +81,7 @@ def enemy_unpack(file):
 
 ```
 
-<h3>Loading Information From Files To Create Rooms and Content</h3>
+<h3>Loading Information From Files To Create Rooms and Content:</h3>
 
 ```python
 # The Room class.
@@ -116,7 +116,7 @@ class Room:
 
 ```
 
-<h3>Using Data Structures Like Dictionaries To Create Maps</h3>
+<h3>Using Data Structures Like Dictionaries To Create Maps:</h3>
 
 ```python
     # Function to open the map file into a dictionary (adjacency list), utilises the format_vari function.
