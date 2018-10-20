@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /3D_Design/
+permalink: /3d_design/
 title: "3D Design Projects"
 author_profile: true
 header:
