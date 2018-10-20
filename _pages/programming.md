@@ -7,7 +7,9 @@ header:
     image: "/images/reflections.png"
 ---
 
-*intro*
+My major programming projects give a look at my coding abilities. 
+Click on the links below to access the pages containing information on 
+each project.
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
