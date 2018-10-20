@@ -13,21 +13,21 @@ I began learning blender by constructing various shapes and seeing how to manipu
 
 <h3>Feline Walk Animation</h3>
 
-<img src= "/images/felinewalk.gif" alt = "feline walk">
+<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinewalk.gif" alt = "feline walk">
 
 <h3>Feline Run Animation</h3>
 
-<img src= "/images/felinerun.gif" alt = "feline run">
+<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinerun.gif" alt = "feline run">
 
 <h3>Feline Jump_Begin Animation</h3>
 
-<img src= "/images/jump_start.gif" alt = "feline jump start">
+<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/jump_start.gif" alt = "feline jump start">
 
 <h3>Feline Falling Animation</h3>
 
-<img src= "/images/felinefalling.gif" alt = "feline falling">
+<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinefalling.gif" alt = "feline falling">
 
 <h3>Feline Landing Animation</h3>
 
-<img src= "/images/felinelanding.gif" alt = "feline landing">
+<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinelanding.gif" alt = "feline landing">
 
