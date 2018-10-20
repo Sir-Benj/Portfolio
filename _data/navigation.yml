@@ -6,8 +6,8 @@ main:
     url: /development/
   - title: "Programming"
     url: /programming/
-  - title: "Unity & Blender"
-    url: /unity&blender/
+  - title: "3D Design"
+    url: /3D_Design/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
