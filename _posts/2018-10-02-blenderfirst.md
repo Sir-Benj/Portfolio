@@ -11,23 +11,23 @@ excerpt: "Learning in Blender, preparing to create assets for use in Unity"
 
 I began learning blender by constructing various shapes and seeing how to manipulate them. After many hours of tutorials and creating various objects (like doughnuts!), I decided to try my hand at creating a character and below are the results, showing the animations I created for it.
 
-<h3>Feline Walk Animation</h3>
+<h3 ALIGN = CENTER>Feline Walk Animation</h3>
 
-<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinewalk.gif?raw=true" alt = "feline walk">
+<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinewalk.gif?raw=true" alt = "feline walk" class = "center">
 
-<h3>Feline Run Animation</h3>
+<h3 ALIGN = CENTER>Feline Run Animation</h3>
 
-<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinerun.gif?raw=true" alt = "feline run">
+<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinerun.gif?raw=true" alt = "feline run" class = "center">
 
-<h3>Feline Jump_Begin Animation</h3>
+<h3 ALIGN = CENTER>Feline Jump_Begin Animation</h3>
 
-<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/jump_start.gif?raw=true" alt = "feline jump start">
+<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/jump_start.gif?raw=true" alt = "feline jump start" class = "center">
 
-<h3>Feline Falling Animation</h3>
+<h3 ALIGN = CENTER>Feline Falling Animation</h3>
 
-<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinefalling.gif?raw=true" alt = "feline falling">
+<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinefalling.gif?raw=true" alt = "feline falling" class = "center">
 
-<h3>Feline Landing Animation</h3>
+<h3 ALIGN = CENTER>Feline Landing Animation</h3>
 
-<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinelanding.gif?raw=true" alt = "Feline Landing">
+<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinelanding.gif?raw=true" alt = "Feline Landing" class = "center">
 
