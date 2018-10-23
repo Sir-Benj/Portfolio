@@ -16,26 +16,19 @@ I began learning blender by constructing various shapes and seeing how to manipu
 
 <img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinewalk.gif?raw=true" alt = "feline walk" class = "center" style = "display: block; margin-left: auto; margin-right: auto;">
 
-<p class="aligncenter">
-    <h3>Feline Run Animation</h3>
-</p>
+<h3 align="center">Feline Run Animation</h3>
 
 <img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinerun.gif?raw=true" alt = "feline run" class = "center" style = "display: block; margin-left: auto; margin-right: auto;">
 
-<p class="aligncenter">
-    <h3>Feline Jump_Begin Animation</h3>
-</p>
+<h3 align="center">Feline Jump_Begin Animation</h3>
 
 <img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/jump_start.gif?raw=true" alt = "feline jump start" class = "center" style = "display: block; margin-left: auto; margin-right: auto;">
 
-<p class="aligncenter">
-    <h3>Feline Falling Animation</h3>
-</p>
+<h3 align="center">Feline Falling Animation</h3>
+
 
 <img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinefalling.gif?raw=true" alt = "feline falling" class = "center" style = "display: block; margin-left: auto; margin-right: auto;">
 
-<p class="aligncenter">
-    <h3>Feline Landing Animation</h3>
-</p>
+<h3 align="center">Feline Landing Animation</h3>
 
 <img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinelanding.gif?raw=true" alt = "Feline Landing" class = "center" style = "display: block; margin-left: auto; margin-right: auto;">
