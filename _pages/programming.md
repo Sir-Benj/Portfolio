@@ -4,7 +4,7 @@ permalink: /programming/
 title: "Programming Projects"
 author_profile: true
 header:
-    image: "/images/reflections.png"
+    image: "/images/programming.png"
 ---
 
 My major programming projects give a look at my coding abilities. 
