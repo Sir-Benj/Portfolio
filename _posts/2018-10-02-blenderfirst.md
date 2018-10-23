@@ -15,7 +15,7 @@ I began learning blender by constructing various shapes and seeing how to manipu
     <h3 class = "vertical">Feline Walk Animation</h3>
 </p>
 
-<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinewalk.gif?raw=true" alt = "feline walk" class = "center">
+<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinewalk.gif?raw=true" alt = "feline walk" class = "center" style = "display: block; margin-left: auto; margin-right: auto;">
 
 <p class="aligncenter">
     <h3>Feline Run Animation</h3>
