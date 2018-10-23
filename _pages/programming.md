@@ -35,4 +35,3 @@ each project.
   {% endfor %}
 {% endif %}
 {% endfor %}
-

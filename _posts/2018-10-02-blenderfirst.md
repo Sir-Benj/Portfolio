@@ -1,10 +1,10 @@
 ---
 title: "First Blender Designs"
 date: 2018-10-02
-tags: [blender]
+tags: [blender, development]
 header:
     image: "images/blenderlogo.png"
-excerpt: "Learning in Blender, preparing to create assets for use in Unity"
+excerpt: "Learning in Blender, preparing to create assets for use in Unity."
 ---
 
 ## Learning Essential Skills
