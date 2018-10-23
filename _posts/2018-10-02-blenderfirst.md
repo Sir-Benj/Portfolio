@@ -12,7 +12,7 @@ excerpt: "Learning in Blender, preparing to create assets for use in Unity"
 I began learning blender by constructing various shapes and seeing how to manipulate them. After many hours of tutorials and creating various objects (like doughnuts!), I decided to try my hand at creating a character and below are the results, showing the animations I created for it.
 
 <p class="aligncenter">
-    <h3>Feline Walk Animation</h3>
+    <h3 style ="text-align: center">Feline Walk Animation</h3>
 </p>
 
 <img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinewalk.gif?raw=true" alt = "feline walk" class = "center">
