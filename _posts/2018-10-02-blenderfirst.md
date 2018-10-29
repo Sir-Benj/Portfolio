@@ -36,3 +36,5 @@ I decided to try my hand at creating a character and below are the results, show
 <h3 align="center">Feline Landing Animation</h3>
 
 <img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/felinelanding.gif?raw=true" alt = "Feline Landing" class = "center" style = "display: block; margin-left: auto; margin-right: auto;">
+
+While these are very basic, I've learned a lot from going over how to make a basic rig and how to set up animations and export them. The model itself was a great challenge. I designed it myself on paper first and used those sketches as references to create it within blender. 
