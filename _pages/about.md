@@ -13,3 +13,4 @@ I'm a mature student, and coming back to education after being away from it for 
 
 I feel extremely driven now that I have given myself a true sense of purpose and have made a commitment to working as hard as I can to get where I want.
 
+<img src= "https://github.com/Sir-Benj/Portfolio/blob/master/images/aboutpic.png?raw=true" alt = "Happy Happy" class = "center" style = "display: block; margin-left: auto; margin-right: auto;">
