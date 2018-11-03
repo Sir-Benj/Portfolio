@@ -86,6 +86,6 @@ namespace mffg
 
 ```
 
-This code is part of the source file for the Vector 3D class and contains most of the functions I've learned about so far. Doing this has also taught me some more of the syntax for c++ and what you can do, for example; `inline` and `reinterpret_cast`.
+This code is part of the source file for the Matrix3x3 class and contains an example of some of the functions I've learned about so far. Doing this has also taught me some more of the syntax for c++ and what you can do, for example; `inline` and `reinterpret_cast`.
 
 I'll be continuing to build on this library throughout the year and update it regularly.
